@@ -7,6 +7,7 @@ name = input('Enter your name: ').strip()
 now = datetime.datetime.now()
 date_str = now.strftime("%A, %d %B %Y — %I:%M %p")
 
+# Print Lord Ganesha greeting
 print("🕉️ Shree Ganeshay Namah! 🙏")
 print(f"Welcome, {name}! Today is {date_str}.\n")
 
