@@ -1,5 +1,6 @@
 hrtk_0001.py - Print "Shree Ganeshay Namah!"
-hrtk_0002.py - Calculate are of circle using math.pi
-hrtk_0003.py - Weather Info Using OpenWeatherMap API
+hrtk_0002.py - Calculate Area of Circle using math.pi
+hrtk_0003.py - Weather Info using OpenWeatherMap API
 hrtk_0004.py - Currency Exchange Converter
-hrtk_0005.py - Playing with date and time fucntions
+hrtk_0005.py - Playing with Date and Time Fucntions
+hrtk_0006.py - Age Calculator using dateutil
