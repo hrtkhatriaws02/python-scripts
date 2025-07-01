@@ -1,0 +1,21 @@
+name : "HHH"
+age : 40
+server :
+  name : "trainwithhhh"
+  capacity : 50GB
+social media :
+  - hhh@gmail.com
+  - hhh@facebook.com
+  - hhh@x.com
+testing : |
+  This is
+  multiline
+  string
+list_of_servers :
+  - server_1 :
+    name : "ec2"
+    volume : 8GB
+  - server_2:
+    name : "fargate"
+    volume : 16GB
+    
