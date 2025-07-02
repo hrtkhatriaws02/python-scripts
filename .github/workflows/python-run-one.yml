@@ -25,4 +25,4 @@ jobs:
 
     - name: Run hrtk_0001.py
       run: |
-        python hrtk_0001.py
+        echo "Himanshu R Khatri" | python hrtk_0001.py
