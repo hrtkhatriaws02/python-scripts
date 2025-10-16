@@ -4,3 +4,5 @@ hrtk_0003.py - Weather Info using OpenWeatherMap API
 hrtk_0004.py - Currency Exchange Converter
 hrtk_0005.py - Playing with Date and Time Fucntions
 hrtk_0006.py - Age Calculator using dateutil
+hrtk_0007.py - Math Game for Class 1
+hrtk_0008.py - Hindi Alphabet Learning
